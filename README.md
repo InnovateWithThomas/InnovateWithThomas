@@ -78,15 +78,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnovateWithThomas&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/thomas.pazze" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ----
