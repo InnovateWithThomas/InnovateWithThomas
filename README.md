@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thomas, a full-time full-stack student developer 👨‍💻🚀</div>  
+### <div align="center">I'm Thomas, a full-time student full-stack developer 👨‍💻🚀</div>  
   
 
 <br/>  
