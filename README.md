@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thomas, a full-time student full-stack developer 👨‍💻🚀</div>  
+### <div align="center">Hello i'm Thomas, a developer that turned to be a cloud entousiast 👨‍💻🚀</div>  
   
 
 <br/>  
@@ -65,10 +65,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/thomas-pazze" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://codepen.com/InnovateWithThomas" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div>  
   
 
